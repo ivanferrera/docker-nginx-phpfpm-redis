@@ -1,4 +1,4 @@
-nginx-contanier:
+nginx-container:
   build: ./nginx/
   ports:
     - "80:80"
