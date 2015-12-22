@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-ENV NGINX_VERSION 1.9.7
+ENV NGINX_VERSION 1.9.9
 
 # install updates and prerequisites
 RUN yum -y update && \
